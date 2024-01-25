@@ -1,4 +1,4 @@
-# -------------- Artificial Intelligence - Metaheuristic --------------
+# --------- Artificial Intelligence - Metaheuristic ----------
 # MonoObjective-OptimizationLionAlgorithm
 
 Authors: Mariane Gavioli Bergamini Fernandes; Gideon Villar Leandro
